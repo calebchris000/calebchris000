@@ -31,3 +31,8 @@ If you're looking for a front-end developer who brings passion, experience, and 
 
 ![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![stylelint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
+
+## Contacts
+
+[LINKEDIN](https://www.linkedin.com/in/caleb-nwaizu-b815aa23b/)
+[TWITTER](https://twitter.com/calebchris000)
