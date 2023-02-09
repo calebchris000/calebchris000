@@ -34,5 +34,5 @@ If you're looking for a front-end developer who brings passion, experience, and 
 
 ## Contacts
 
-[LINKEDIN](https://www.linkedin.com/in/caleb-nwaizu-b815aa23b/)
-[TWITTER](https://twitter.com/calebchris000)
+[caleb-nwaizu](https://www.linkedin.com/in/caleb-nwaizu-b815aa23b/)<br>
+[@calebchris000](https://twitter.com/calebchris000)
