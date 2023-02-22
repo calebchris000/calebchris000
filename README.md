@@ -12,7 +12,7 @@ I'm a lifelong learner and love to stay up to date with the latest industry tren
 
 If you're looking for a front-end developer who brings passion, experience, and a love for React, HTML, CSS and Ruby on Rails to the table, then I'm your guy! Let's work together and build something amazing!
 
-## Skills :mortar_board:
+## **SKILLS** :mortar_board:
  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
@@ -24,7 +24,7 @@ If you're looking for a front-end developer who brings passion, experience, and 
  ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
  ![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
-## **My Workspaces**
+## **MY WORKSPACES**
 
 ### **IDE**
 
@@ -61,7 +61,7 @@ If you're looking for a front-end developer who brings passion, experience, and 
 ### **Operating System**
 [![mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com)
 
-## **Contacts**
+## **CONTACT ME**
 <div style="display: flex">
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/calebchris000/)
