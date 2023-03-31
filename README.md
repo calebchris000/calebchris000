@@ -74,4 +74,6 @@ If you're looking for a front-end developer who brings passion, experience, and 
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/calebchris000/)
 </div>
 
+![Caleb stats](https://github-readme-stats.vercel.app/api?username=calebchris000&show_icons=true&theme=transparent)
+
 
