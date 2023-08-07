@@ -66,6 +66,7 @@ If you're looking for a front-end developer who brings passion, experience, and 
 
 ### **Operating System**
 [![mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com)
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://windows.com)
 
 ## **CONTACT ME**
 <div style="display: flex">
