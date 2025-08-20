@@ -41,7 +41,7 @@ My experience includes successfully integrating React frontends with NestJS back
 
 If you're seeking a developer who combines technical prowess with a passion for innovation, I'm eager to discuss how my skills can contribute to your next project. Let's collaborate to bring your vision to life and create something truly exceptional!
 
-If you're looking for a front-end developer who brings passion, experience, and a love for React, HTML, CSS and Ruby on Rails to the table, then I'm your guy! Let's work together and build something amazing!
+If you're looking for a front-end developer who brings passion, experience, and a love for React, HTML, CSS and NestJS to the table, then I'm your guy! Let's work together and build something amazing!
 
 ## My Portfolio 
 **[Portfolio](https://calebnwaizu.vercel.app/)**
