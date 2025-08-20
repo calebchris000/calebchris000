@@ -3,7 +3,7 @@
 # Hi! I'm Caleb. It's nice to meet you. :wave:
 ## About Me :man:
 
-# Full-Stack Web Developer
+# Software Engineer
 
 ## Technical Skills
 
@@ -26,9 +26,9 @@
 
 ## Professional Summary
 
-As a seasoned full-stack developer, I bring a unique blend of technical expertise and creative problem-solving to every project. While I excel across the full stack, I have a particular affinity for backend development, relishing the opportunity to architect complex systems and optimize server-side logic. This passion is complemented by my frontend skills, allowing me to create cohesive, end-to-end solutions.
+As a seasoned software engineer, I bring a unique blend of technical expertise and creative problem-solving to every project. While I excel across the full stack, I have a particular affinity for backend development, relishing the opportunity to architect complex systems and optimize server-side logic. This passion is complemented by my frontend skills, allowing me to create cohesive, end-to-end solutions.
 
-My experience includes successfully integrating React frontends with Ruby on Rails backends, demonstrating my adaptability across different technology stacks. I've contributed to projects of various scales, consistently delivering clean, well-documented, and maintainable code.
+My experience includes successfully integrating React frontends with NestJS backends, demonstrating my adaptability across different technology stacks. I've contributed to projects of various scales, consistently delivering clean, well-documented, and maintainable code.
 
 ## Approach
 
